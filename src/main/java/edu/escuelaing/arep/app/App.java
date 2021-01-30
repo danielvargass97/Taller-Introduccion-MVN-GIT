@@ -1,13 +1,15 @@
 package edu.escuelaing.arep.app;
 
 /**
- * Hello world!
- *
+ * 
+ * @author DanielVargas
  */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
+public class App {
+	
+	/**
+	 * Main method
+	 * @param args (Main method param)
+	 */
+    public static void main( String[] args ){
     }
 }
