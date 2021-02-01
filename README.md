@@ -19,4 +19,9 @@ Para información de la licencia (GNU General Public License v3.0) siga este [en
 
 ### DISEÑO
 
+![Design](https://user-images.githubusercontent.com/50029247/106500599-0365bf00-6490-11eb-8097-826eb898c035.png)
+
+### Explicación del diseño
+
+El diseño cuenta con 4 clases principales divididas en 2 paquetes. En el paquete LinkedList (lista enlazada) en el cual estan las clases Node (nodo) que esta encargada de la creación de nodos y sus enlaces para la lista enlazada; la clase LinkedList(lista enlazada) la cual crea nuestra lista, implementa los metodos de las listas en JAVA ademas de los metodos de extración de datos, almacenamiento y eliminacipon utilizados para los calculos respectivos. En el paquete Calculator (calculadora) en el cual estan las clases Mean (media) y StandardDeviation (desviación estandar). Las cuales estan encargadas de hacer su respectivo calculo usando la lista enlazada diseñada por el estudiante.
 
